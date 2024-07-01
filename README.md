@@ -1,0 +1,3 @@
+Employee Management Portal
+
+Developed an Employee Management Portal with distinct interfaces for employees and their managers. The portal enables managers to assign various tasks to employees and track their completion status within specified deadlines. Employees can view their assigned tasks, analyze, and submit their work. Additionally, the portal provides a section for common notices shared across the team. Automated email notifications are sent to the respective employees and managers whenever tasks are assigned or their status is updated, ensuring timely communication and efficient task management.
